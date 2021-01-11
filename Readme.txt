@@ -4,9 +4,8 @@ This package contains the Matlab implementations of GPA, OLLGC, and SSLGC, as we
 Please run the script files 'test_Coauthor.m', 'test_cora.m',  'test_IMDB.m' and 'test_PubMed' to reproduce the experimental results. 
 
 
-Finally, please do not distribute this package because this paper is under review and not published yet:
 [1] Quanquan Gu, Charu Aggarwal, Jialu Liu and Jiawei Han, Selective Sampling on Graphs for Classification,
-  KDD, 2013, Under review.
+  KDD, 2013.
 
 
 
